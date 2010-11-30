@@ -1,0 +1,42 @@
+html, body {
+    margin:0px;
+    padding:0px;
+    font-family: 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+}
+
+div#titlebar {
+    margin:0px 0px 20px 0px;
+    padding:0px;
+    background: #00428c;
+}
+
+div#titlebar h2 {
+    margin:0px 5px;
+    padding:0px;
+    color: white;
+    font-size: 200%;
+}
+
+table {
+    width:100%;
+}
+
+td {
+    margin:5px;
+    padding:5px;
+    background: #eeeeee;
+    border: 1px solid #cccccc;
+    text-align:center;
+}
+
+p {
+    margin: 5px;
+}
+
+p.toptext {
+    margin: 0px 40px 10px 40px;
+}
+
+img {
+    margin: 5px;
+}
